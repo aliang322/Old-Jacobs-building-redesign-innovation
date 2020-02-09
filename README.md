@@ -1,6 +1,8 @@
 # Old-Jacobs-building-redesign-innovation
 Proposed redesign of Old Jacobs building at NYU Tandon (LEED compliant HVAC/floor schematics &amp; budget proposal)
 
+Team: Andrew S Liang, Demetri Sebastian Lopez, Saadia Laskar
+
 Building design fly-through:
 https://www.youtube.com/watch?v=rntFnAwjdRw
 
